@@ -15,6 +15,7 @@
   font-size: 40px;
   margin: 30px 0;
   color: white;
+  /* z-index controls the layering, 1 means it will be on top */
   z-index: 1;
   text-align: center;
 }
